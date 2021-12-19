@@ -1,0 +1,1115 @@
+[
+    {
+        "name": "---",
+        "defense": 0,
+        "slots": [0, 0, 0],
+        "resistances": {
+            "fire": 0,
+            "water": 0,
+            "thunder": 0,
+            "ice": 0,
+            "dragon": 0
+        },
+        "skills": {
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Acidic Glavenus Helm a +",
+        "defense": 194,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "maximumMight": 2,
+            "effluviaResistance": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acidic Glavenus Helm b +",
+        "defense": 194,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "maximumMight": 1,
+            "effluviaResistance": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acrobat Earrings a +",
+        "defense": 178,
+        "slots": [2, 2, 1],
+        "resistances": {
+            "fire": 1,
+            "water": 1,
+            "thunder": 1,
+            "ice": 1,
+            "dragon": 1
+        },
+        "skills": {
+            "safeLanding": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Helm a +",
+        "defense": 172,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 2,
+            "defenseBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Helm b +",
+        "defense": 172,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Anja Helm a +",
+        "defense": 190,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireAttack": 2,
+            "fireResistance": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Anja Helm b +",
+        "defense": 190,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireAttack": 2
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Artemis Head a +",
+        "defense":     184,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 1,
+            "peakPerformance": 2
+        },
+        "sets": {
+            "newWorld": 1
+        }
+    },
+    {
+        "name": "Artian Helm a +",
+        "defense":     194,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "slingerCapacity": 2,
+            "freeElemAmmoUp": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Artian Helm b +",
+        "defense":     194,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "slingerCapacity": 1,
+            "freeElemAmmoUp": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Astral Veil a +",
+        "defense":     198,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 3
+        },
+        "sets": {
+            "appreciationBlessing": 1
+        }
+    },
+    {
+        "name": "Azure Age Hair a +",
+        "defense":     208,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  3 
+        },
+        "skills": {
+            "slingerCapacity": 3,
+            "weaknessExploit": 1
+        },
+        "sets": {
+            "silverRathalosEssence": 1
+        }
+    },
+    {
+        "name": "Baan Helm a +",
+        "defense":     192,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "tremorResistance": 2,
+            "slugger": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Baan Helm b +",
+        "defense":     192,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "tremorResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Helm a +",
+        "defense":     188,
+        "slots":      [2, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "mushroomancer": 1,
+            "resentment": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Helm b +",
+        "defense":     188,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "resentment": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banuk Helm a +",
+        "defense":     198,
+        "slots":      [4, 1, 1],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "focus": 2,
+            "aquaticPolarMobility": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Barioth Helm a +",
+        "defense":     190,
+        "slots":      [1, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "evadeExtender": 2,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barioth Helm b +",
+        "defense":     190,
+        "slots":      [1, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "evadeExtender": 1,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barroth Helm a +",
+        "defense":     176,
+        "slots":      [2, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "guard": 2,
+            "marathonRunner": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Helm b +",
+        "defense":     176,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "guard": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Helm b +",
+        "defense":     176,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "aquaticPolarMobility": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Helm a +",
+        "defense":     176,
+        "slots":      [2, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 1,
+            "aquaticPolarMobility": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Black Belt Helm a +",
+        "defense":     194,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 2,
+            "mushroomancer": 1
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Black Belt Helm b +",
+        "defense":     194,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Bone Helm a +",
+        "defense":     172,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "healthboost":2,
+            "partbreaker":1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Bone Helm b +",
+        "defense":     172,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "healthboost":1,
+            "partbreaker":1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Brachydios Helm a +",
+        "defense":     194,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "capacityBoost": 1
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydios Helm b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydium Helm a +",
+        "defense":     208,
+        "slots":      [2,2,1],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "weaknessExploit": 1,
+            "guard": 2
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Brachydium Helm b +",
+        "defense":     208,
+        "slots":      [4,4,1],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "weaknessExploit": 1
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Claire's Head a +",
+        "defense":     168,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   2,
+            "thunder": 2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 2,
+            "evadeWindow": 2
+        },
+        "sets": {
+            "survivor": 1
+        }
+    },
+    {
+        "name": "Clockwork Helm a +",
+        "defense":     194,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "agitator":2,
+            "partbreaker":1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Clockwork Helm b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "agitator":1,
+            "partbreaker":1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Damascus Helm a +",
+        "defense":     196,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "defenseBoost": 3,
+            "speedSharpening": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Helm b +",
+        "defense":     196,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "defenseBoost": 3
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Death Garon Helm a +",
+        "defense":     192,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "latentPower":2,
+            "toolSpecialist": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Death Garon Helm b +",
+        "defense":     192,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "latentPower":2
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Demonlord Hair a +",
+        "defense":     206,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 4,
+            "ice":     1,
+            "dragon":  1 
+        },
+        "skills": {
+            "guard": 3
+        },
+        "sets": {
+            "funFrightBlessing": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Helm a +",
+        "defense":     192,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 1,
+            "partbreaker": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Helm b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "partbreaker": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Helm a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1,
+            "criticalDraw": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Helm b +",
+        "defense":     192,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "criticalDraw": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Dober Helm a +",
+        "defense":     196,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "staminaSurge": 1,
+            "freeElemAmmoUp": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dober Helm b +",
+        "defense":     196,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "freeElemAmmoUp": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Helm a +",
+        "defense":     178,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastResistance": 2,
+            "bombardier": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Helm b +",
+        "defense":     178,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dragonhead a +",
+        "defense":     218,
+        "slots":      [3,2,2],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "stunResistance": 3,
+            "guard": 3
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    }
+    ,
+    {
+        "name": "Dragonhead b +",
+        "defense":     218,
+        "slots":      [4,4,4],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "stunResistance": 3
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Duffel Penguin Mask a +",
+        "defense":     196,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    -1,
+            "water":   3,
+            "thunder": 0,
+            "ice":     4,
+            "dragon":  0 
+        },
+        "skills": {
+            "evadeWindow": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Empress Crown a +",
+        "defense":     202,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 2,
+            "offensiveGuard": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Empress Crown b +",
+        "defense":     202,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Escadora Wisdom a +",
+        "defense":     198,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 3,
+            "criticalEye": 2
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Escadora Wisdom b +",
+        "defense":     198,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 3,
+            "criticalEye": 1
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Esurient Helm a +",
+        "defense":     200,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "handicraft": 2,
+            "partbreaker": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Esurient Helm b +",
+        "defense":     200,
+        "slots":      [4,3,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "partbreaker": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Fellshroud Helm a +",
+        "defense":     194,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "dragonAttack": 2,
+            "peakPerformance": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Fellshroud Helm b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "peakPerformance": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Frostfang Helm a +",
+        "defense":     186,
+        "slots":      [3,2,1],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "criticalEye": 2,
+            "quickSheath": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    },
+    {
+        "name": "Frostfang Helm b +",
+        "defense":     186,
+        "slots":      [4,2,1],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "criticalEye": 2
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    }
+]

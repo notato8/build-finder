@@ -6,11 +6,106 @@
 	objectVersion = 55;
 	objects = {
 
+/* Begin PBXFileReference section */
+		EA7381BE276EFEAA0073CE15 /* mario-kart-8-deluxe.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "mario-kart-8-deluxe.js"; sourceTree = "<group>"; };
+		EA7381C0276EFEAA0073CE15 /* monster-hunter-rise.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "monster-hunter-rise.js"; sourceTree = "<group>"; };
+		EA7381C1276EFEAA0073CE15 /* monster-hunter-world.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "monster-hunter-world.js"; sourceTree = "<group>"; };
+		EA7381C2276EFEAA0073CE15 /* filter-by-stats.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "filter-by-stats.js"; sourceTree = "<group>"; };
+		EA7381C3276EFEAA0073CE15 /* config-mhwi.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "config-mhwi.js"; sourceTree = "<group>"; };
+		EA7381C6276EFEAA0073CE15 /* weapons.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = weapons.json; sourceTree = "<group>"; };
+		EA7381C7276EFEAA0073CE15 /* greaves.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = greaves.json; sourceTree = "<group>"; };
+		EA7381C8276EFEAA0073CE15 /* helms.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = helms.json; sourceTree = "<group>"; };
+		EA7381C9276EFEAA0073CE15 /* coils.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = coils.json; sourceTree = "<group>"; };
+		EA7381CA276EFEAA0073CE15 /* charms.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = charms.json; sourceTree = "<group>"; };
+		EA7381CB276EFEAA0073CE15 /* decorations.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = decorations.json; sourceTree = "<group>"; };
+		EA7381CC276EFEAA0073CE15 /* mails.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = mails.json; sourceTree = "<group>"; };
+		EA7381CD276EFEAA0073CE15 /* skills.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = skills.json; sourceTree = "<group>"; };
+		EA7381CE276EFEAA0073CE15 /* sets.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sets.json; sourceTree = "<group>"; };
+		EA7381CF276EFEAA0073CE15 /* vambraces.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = vambraces.json; sourceTree = "<group>"; };
+		EA7381D1276EFEAA0073CE15 /* bodies.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = bodies.json; sourceTree = "<group>"; };
+		EA7381D2276EFEAA0073CE15 /* tires.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = tires.json; sourceTree = "<group>"; };
+		EA7381D3276EFEAA0073CE15 /* drivers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = drivers.json; sourceTree = "<group>"; };
+		EA7381D4276EFEAA0073CE15 /* gliders.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gliders.json; sourceTree = "<group>"; };
+		EA7381D5276EFEAA0073CE15 /* config.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = config.js; sourceTree = "<group>"; };
+		EA7381D6276EFEAA0073CE15 /* build-finder.js */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.javascript; path = "build-finder.js"; sourceTree = "<group>"; };
+		EA7381D7276EFEAA0073CE15 /* package.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = package.json; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		EA7381B5276EFE710073CE15 = {
 			isa = PBXGroup;
 			children = (
+				EA7381D6276EFEAA0073CE15 /* build-finder.js */,
+				EA7381C3276EFEAA0073CE15 /* config-mhwi.js */,
+				EA7381D5276EFEAA0073CE15 /* config.js */,
+				EA7381C4276EFEAA0073CE15 /* data */,
+				EA7381BC276EFEAA0073CE15 /* lib */,
+				EA7381D7276EFEAA0073CE15 /* package.json */,
 			);
+			sourceTree = "<group>";
+		};
+		EA7381BC276EFEAA0073CE15 /* lib */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381BD276EFEAA0073CE15 /* mario-kart */,
+				EA7381BF276EFEAA0073CE15 /* monster-hunter */,
+				EA7381C2276EFEAA0073CE15 /* filter-by-stats.js */,
+			);
+			path = lib;
+			sourceTree = "<group>";
+		};
+		EA7381BD276EFEAA0073CE15 /* mario-kart */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381BE276EFEAA0073CE15 /* mario-kart-8-deluxe.js */,
+			);
+			path = "mario-kart";
+			sourceTree = "<group>";
+		};
+		EA7381BF276EFEAA0073CE15 /* monster-hunter */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381C0276EFEAA0073CE15 /* monster-hunter-rise.js */,
+				EA7381C1276EFEAA0073CE15 /* monster-hunter-world.js */,
+			);
+			path = "monster-hunter";
+			sourceTree = "<group>";
+		};
+		EA7381C4276EFEAA0073CE15 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381C5276EFEAA0073CE15 /* monster-hunter-world-iceborne */,
+				EA7381D0276EFEAA0073CE15 /* mario-kart-8-deluxe */,
+			);
+			path = data;
+			sourceTree = "<group>";
+		};
+		EA7381C5276EFEAA0073CE15 /* monster-hunter-world-iceborne */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381C6276EFEAA0073CE15 /* weapons.json */,
+				EA7381C7276EFEAA0073CE15 /* greaves.json */,
+				EA7381C8276EFEAA0073CE15 /* helms.json */,
+				EA7381C9276EFEAA0073CE15 /* coils.json */,
+				EA7381CA276EFEAA0073CE15 /* charms.json */,
+				EA7381CB276EFEAA0073CE15 /* decorations.json */,
+				EA7381CC276EFEAA0073CE15 /* mails.json */,
+				EA7381CD276EFEAA0073CE15 /* skills.json */,
+				EA7381CE276EFEAA0073CE15 /* sets.json */,
+				EA7381CF276EFEAA0073CE15 /* vambraces.json */,
+			);
+			path = "monster-hunter-world-iceborne";
+			sourceTree = "<group>";
+		};
+		EA7381D0276EFEAA0073CE15 /* mario-kart-8-deluxe */ = {
+			isa = PBXGroup;
+			children = (
+				EA7381D1276EFEAA0073CE15 /* bodies.json */,
+				EA7381D2276EFEAA0073CE15 /* tires.json */,
+				EA7381D3276EFEAA0073CE15 /* drivers.json */,
+				EA7381D4276EFEAA0073CE15 /* gliders.json */,
+			);
+			path = "mario-kart-8-deluxe";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

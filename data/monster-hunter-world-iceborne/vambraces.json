@@ -1,0 +1,1102 @@
+[
+    {
+        "name": "---",
+        "defense": 0,
+        "slots": [0, 0, 0],
+        "resistances": {
+            "fire": 0,
+            "water": 0,
+            "thunder": 0,
+            "ice": 0,
+            "dragon": 0
+        },
+        "skills": {
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Acidic Glavenus Braces a +",
+        "defense": 194,
+        "slots": [2, 1, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "stunResistance": 2,
+            "handicraft": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acidic Glavenus Braces b +",
+        "defense": 194,
+        "slots": [4, 2, 1],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "stunResistance": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Alloy Vambraces a +",
+        "defense": 172,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "defenseBoost": 2,
+            "speedSharpening": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Vambraces b +",
+        "defense": 172,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "defenseBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Anja Vambraces a +",
+        "defense": 190,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireAttack": 2,
+            "specialAmmoBoost": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Anja Vambraces b +",
+        "defense": 190,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireAttack": 1,
+            "specialAmmoBoost": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Artemis Guards a +",
+        "defense":     184,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 1,
+            "healthBoost": 3
+        },
+        "sets": {
+            "newWorld": 1
+        }
+    },
+    {
+        "name": "Artian Vambraces a +",
+        "defense":     194,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "freeElemAmmoUp": 2,
+            "toolSpecialist": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Artian Vambraces b +",
+        "defense":     194,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "freeElemAmmoUp": 2
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Astral Scarf a +",
+        "defense":     198,
+        "slots": [4, 1, 1],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "divineBlessing": 2
+        },
+        "sets": {
+            "appreciationBlessing": 1
+        }
+    },
+    {
+        "name": "Azure Age Sleeve a +",
+        "defense":     208,
+        "slots": [1, 1, 1],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  3 
+        },
+        "skills": {
+            "weaknessExploit": 1,
+            "focus": 2
+        },
+        "sets": {
+            "silverRathalosEssence": 1
+        }
+    },
+    {
+        "name": "Baan Vambraces a +",
+        "defense":     192,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "guard": 1,
+            "sleepAttack": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Baan Vambraces b +",
+        "defense":     192,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "guard": 1,
+            "sleepAttack": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Vambraces a +",
+        "defense":     188,
+        "slots":      [2, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "offensiveGuard": 1,
+            "healthBoost": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Vambraces b +",
+        "defense":     188,
+        "slots":      [4, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "offensiveGuard": 1,
+            "healthBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banuk Arms a +",
+        "defense":     198,
+        "slots":      [4, 3, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "focus": 1,
+            "staminaSurge": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Barioth Vambraces a +",
+        "defense":     190,
+        "slots":      [2, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "constitution": 2,
+            "recoveryUp": 2
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barioth Vambraces a +",
+        "defense":     190,
+        "slots":      [4, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "constitution": 1,
+            "recoveryUp": 2
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barroth Vambraces a +",
+        "defense":     176,
+        "slots":      [3, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "guard": 1,
+            "marathonRunner": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Vambraces b +",
+        "defense":     176,
+        "slots":      [4, 2, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "marathonRunner": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Vambraces a +",
+        "defense":     176,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "iceAttack": 2,
+            "healthBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Vambraces b +",
+        "defense":     176,
+        "slots":      [4, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "iceAttack": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Black Belt Braces a +",
+        "defense":     194,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 2,
+            "hornMaestro":2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Black Belt Braces b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Bone Vambraces a +",
+        "defense":     172,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 1,
+            "slugger": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Bone Vambraces b +",
+        "defense":     172,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Brachydios Braces a +",
+        "defense":     194,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "blastResistance": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydios Braces b +",
+        "defense":     194,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "blastResistance": 1
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydium Braces a +",
+        "defense":     208,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "artillery": 3
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Brachydium Braces b +",
+        "defense":     208,
+        "slots":      [4,4,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Buff Body Arms a +",
+        "defense":     198,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -1,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "resuscitate": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Claire's Arms a +",
+        "defense":     168,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   2,
+            "thunder": 2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 2,
+            "evadeWindow": 1
+        },
+        "sets": {
+            "survivor": 1
+        }
+    },
+    {
+        "name": "Clockwork Braces a +",
+        "defense":     194,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "bombardier":3,
+            "tremorResistance":1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Clockwork Braces b +",
+        "defense":     194,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "bombardier":3
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Damascus Vambraces a +",
+        "defense":     196,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "speedSharpening":1,
+            "handicraft": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Vambraces b +",
+        "defense":     196,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "handicraft": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Death Garon Braces a +",
+        "defense":     192,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "dragonAttack": 2,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Death Garon Braces b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "dragonAttack": 1,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Demonlord Blackarm a +",
+        "defense":     206,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 4,
+            "ice":     1,
+            "dragon":  1 
+        },
+        "skills": {
+            "handicraft": 3
+        },
+        "sets": {
+            "funFrightBlessing": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Braces a +",
+        "defense":     192,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2,
+            "marathonRunner": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Braces b +",
+        "defense":     192,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1,
+            "marathonRunner": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Vambraces a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "heroics": 3,
+            "tremorResistance": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Vambraces b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "heroics": 2,
+            "tremorResistance": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Dober Vambraces a +",
+        "defense":     196,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "staminaSurge": 2,
+            "mushroomancer": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dober Vambraces b +",
+        "defense":     196,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "staminaSurge": 1,
+            "mushroomancer": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Vambraces a +",
+        "defense":     178,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastAttack": 1,
+            "bombardier": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Vambraces a +",
+        "defense":     178,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastAttack": 1,
+            "bombardier": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dragonclaws a +",
+        "defense":     218,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "handicraft": 3,
+            "weaknessExploit": 1
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Dragonclaws b +",
+        "defense":     218,
+        "slots":      [4,4,4],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "weaknessExploit": 1
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Empress Vambraces a +",
+        "defense":     202,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 2,
+            "blastAttack": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Empress Vambraces b +",
+        "defense":     202,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 2,
+            "blastAttack": 1
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Escadora Armguard a +",
+        "defense":     198,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 3,
+            "powerProlonger": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Escadora Armguard b +",
+        "defense":     198,
+        "slots":      [4,3,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Esurient Vambraces a +",
+        "defense":     200,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "staminaThief": 2,
+            "partbreaker": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Esurient Vambraces b +",
+        "defense":     200,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "staminaThief": 2
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Fellshroud Braces a +",
+        "defense":     194,
+        "slots":      [2,1,1],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "speedEating": 1,
+            "recoveryUp": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Fellshroud Braces b +",
+        "defense":     194,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "recoveryUp": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Frostfang Vambraces a +",
+        "defense":     186,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "slugger": 2,
+            "criticalEye": 2
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    },
+    {
+        "name": "Frostfang Vambraces b +",
+        "defense":     186,
+        "slots":      [4,4,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "criticalEye": 2
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    }
+]

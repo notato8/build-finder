@@ -1,0 +1,677 @@
+[
+    {
+        "name": "---",
+        "skills": {
+        }
+    },
+    {
+        "name": "Artillery Charm III",
+        "skills": {
+            "artillery": 3
+        }
+    },
+    {
+        "name": "Attack Charm V",
+        "skills": {
+            "attackBoost": 5
+        }
+    },
+    {
+        "name": "Awakening Charm III",
+        "skills": {
+            "freeElemAmmoUp": 3
+        }
+    },
+    {
+        "name": "Blast Charm III",
+        "skills": {
+            "blastResistance": 3
+        }
+    },
+    {
+        "name": "Blast Coating Charm",
+        "skills": {
+            "blastFunctionality": 1
+        }
+    },
+    {
+        "name": "Blaze Charm V",
+        "skills": {
+            "fireAttack": 5
+        }
+    },
+    {
+        "name": "Bleed Charm III",
+        "skills": {
+            "bleedingResistance": 3
+        }
+    },
+    {
+        "name": "Blessing Charm III",
+        "skills": {
+            "divineBlessing": 3
+        }
+    },
+    {
+        "name": "Blight Charm III",
+        "skills": {
+            "blightResistance": 3
+        }
+    },
+    {
+        "name": "Breaker Charm III",
+        "skills": {
+            "partbreaker": 3
+        }
+    },
+    {
+        "name": "Bulwark Charm",
+        "skills": {
+            "guardUp": 1,
+            "resuscitate": 1
+        }
+    },
+    {
+        "name": "Botany Charm IV",
+        "skills": {
+            "botanist": 4
+        }
+    },
+    {
+        "name": "Bombardier Charm III",
+        "skills": {
+            "bombardier": 3
+        }
+    },
+    {
+        "name": "Capacity Charm",
+        "skills": {
+            "capacityBoost": 1
+        }
+    },
+    {
+        "name": "Critical Charm III",
+        "skills": {
+            "criticalBoost": 3
+        }
+    },
+    {
+        "name": "Challenger Charm V",
+        "skills": {
+            "agitator": 5 
+        }
+    },
+    {
+        "name": "Clearmind Charm",
+        "skills": {
+            "heatGuard": 1,
+            "effluvialExpert": 1
+        }
+    },
+    {
+        "name": "Defense Charm V",
+        "skills": {
+            "defenseBoost": 5
+        }
+    },
+    {
+        "name": "Demolition Charm IV",
+        "skills": {
+            "blastAttack": 4
+        }
+    },
+    {
+        "name": "Disperal Charm II",
+        "skills": {
+            "spreadPowerShots": 2
+        }
+    },
+    {
+        "name": "Dragon Charm III",
+        "skills": {
+            "dragonResistance": 3
+        }
+    },
+    {
+        "name": "Draw Charm III",
+        "skills": {
+            "critialDraw": 3
+        }
+    },
+    {
+        "name": "Earplugs Charm V",
+        "skills": {
+            "earplugs": 5
+        }
+    },
+    {
+        "name": "Enervate Charm",
+        "skills": {
+            "staminaThief": 3
+        }
+    },
+    {
+        "name": "Evasion Charm V",
+        "skills": {
+            "evadeWindow": 5
+        }
+    },
+    {
+        "name": "Exploiter Charm III",
+        "skills": {
+            "weaknessExploit": 3
+        }
+    },
+    {
+        "name": "Extension Charm III",
+        "skills": {
+            "itemProlonger": 3
+        }
+    },
+    {
+        "name": "Fair Wind Charm",
+        "skills": {
+            "attackBoost": 1,
+            "divineBlessing": 1
+        }
+    },
+    {
+        "name": "Fire Charm III",
+        "skills": {
+            "fireResistance": 3
+        }
+    },
+    {
+        "name": "Fitness Charm V",
+        "skills": {
+            "constitution": 5
+        }
+    },
+    {
+        "name": "Friendship Charm V",
+        "skills": {
+            "wideRange": 5
+        }
+    },
+    {
+        "name": "Frost Charm V",
+        "skills": {
+            "iceAttack": 5
+        }
+    },
+    {
+        "name": "Fortification Charm",
+        "skills": {
+            "fortify": 1
+        }
+    },
+    {
+        "name": "Flood Charm V",
+        "skills": {
+            "waterAttack": 5
+        }
+    },
+    {
+        "name": "Focus Charm III",
+        "skills": {
+            "focus": 3
+        }
+    },
+    {
+        "name": "Fury Charm V",
+        "skills": {
+            "resentment": 5
+        }
+    },
+    {
+        "name": "Gale Charm",
+        "skills": {
+            "affinitySliding": 1,
+            "airborne": 1
+        }
+    },
+    {
+        "name": "Gatherer's Charm",
+        "skills": {
+            "masterGatherer": 1,
+            "carvingPro": 1
+        }
+    },
+    {
+        "name": "Geomancy Charm",
+        "skills": {
+            "foragersLuck": 1,
+            "detector": 1
+        }
+    },
+    {
+        "name": "Geology Charm III",
+        "skills": {
+            "geologist": 3
+        }
+    },
+    {
+        "name": "Glutton's Charm III",
+        "skills": {
+            "speedEating": 3
+        }
+    },
+    {
+        "name": "Guard Charm III",
+        "skills": {
+            "ironSkin": 3
+        }
+    },
+    {
+        "name": "Guardian Charm III",
+        "skills": {
+            "offensiveGuard": 3
+        }
+    },
+    {
+        "name": "Handicraft Charm V",
+        "skills": {
+            "handicraft": 5
+        }
+    },
+    {
+        "name": "Health Charm III",
+        "skills": {
+            "healthBoost": 3
+        }
+    },
+    {
+        "name": "Hungerless Charm III",
+        "skills": {
+            "hungerResistance": 3
+        }
+    },
+    {
+        "name": "Heavy Artillery Charm II",
+        "skills": {
+            "heavyArtillery": 2
+        }
+    },
+    {
+        "name": "Hunter's Life Charm",
+        "skills": {
+            "bbqMaster": 1,
+            "masterFisher": 1
+        }
+    },
+    {
+        "name": "Invigorate Charm III",
+        "skills": {
+            "powerProlonger": 3
+        }
+    },
+    {
+        "name": "Insect Charm III",
+        "skills": {
+            "entomologist": 3
+        }
+    },
+    {
+        "name": "Intimidator Charm III",
+        "skills": {
+            "intimidator": 3
+        }
+    },
+    {
+        "name": "Ice Charm III",
+        "skills": {
+            "iceResistance": 3
+        }
+    },
+    {
+        "name": "Impact Charm III",
+        "skills": {
+            "flinchFree": 3
+        }
+    },
+    {
+        "name": "Immobilize Charm IV",
+        "skills": {
+            "paralysisAttack": 4
+        }
+    },
+    {
+        "name": "Ironside Charm V",
+        "skills": {
+            "guard": 5
+        }
+    },
+    {
+        "name": "Grit Charm V",
+        "skills": {
+            "heroics": 5
+        }
+    },
+    {
+        "name": "KO Charm III",
+        "skills": {
+            "slugger": 3
+        }
+    },
+    {
+        "name": "Leaping Charm III",
+        "skills": {
+            "evadeExtender": 3
+        }
+    },
+    {
+        "name": "Light Eater's Charm",
+        "skills": {
+            "freeMeal": 1
+        }
+    },
+    {
+        "name": "Marathon Charm III",
+        "skills": {
+            "marathonRunner": 3
+        }
+    },
+    {
+        "name": "Master's Charm V",
+        "skills": {
+            "criticalEye": 5
+        }
+    },
+    {
+        "name": "Maintenance Charm III",
+        "skills": {
+            "toolSpecialist": 3
+        }
+    },
+    {
+        "name": "Miasma Charm III",
+        "skills": {
+            "effluviaResistance": 3
+        }
+    },
+    {
+        "name": "Mighty Charm III",
+        "skills": {
+            "maximumMight": 3
+        }
+    },
+    {
+        "name": "Mud Puppy Charm",
+        "skills": {
+            "muckResistance": 1,
+            "leapOfFaith": 1
+        }
+    },
+    {
+        "name": "Mushroom Charm III",
+        "skills": {
+            "mushroomancer": 3
+        }
+    },
+    {
+        "name": "Mirewalker Charm III",
+        "skills": {
+            "aquaticExpert": 3
+        }
+    },
+    {
+        "name": "Normal Shots Charm II",
+        "skills": {
+            "normalShots": 2
+        }
+    },
+    {
+        "name": "Para Coating Charm",
+        "skills": {
+            "paraFunctionality": 1
+        }
+    },
+    {
+        "name": "Paralysis Charm III",
+        "skills": {
+            "paralysisResistance": 3
+        }
+    },
+    {
+        "name": "Penetration Charm II",
+        "skills": {
+            "piercingShots": 2
+        }
+    },
+    {
+        "name": "Phoenix Charm III",
+        "skills": {
+            "coalescence": 3
+        }
+    },
+    {
+        "name": "Poison Coating Charm",
+        "skills": {
+            "poisonFunctionality": 1
+        }
+    },
+    {
+        "name": "Poison Charm III",
+        "skills": {
+            "poisonResistance": 3
+        }
+    },
+    {
+        "name": "Power Charm V",
+        "skills": {
+            "latentPower": 5
+        }
+    },
+    {
+        "name": "Procurer's Charm",
+        "skills": {
+            "proTransporter": 1,
+            "honeyHunter": 1
+        }
+    },
+    {
+        "name": "Performer's Charm II",
+        "skills": {
+            "hornMaestro": 2
+        }
+    },
+    {
+        "name": "Rally Charm V",
+        "skills": {
+            "palicoRally": 5
+        }
+    },
+    {
+        "name": "Recovery Charm III",
+        "skills": {
+            "recoveryUp": 3
+        }
+    },
+    {
+        "name": "Rider's Charm",
+        "skills": {
+            "masterMounter": 1,
+            "jumpMaster": 1
+        }
+    },
+    {
+        "name": "Shock Charm V",
+        "skills": {
+            "thunderAttack": 5
+        }
+    },
+    {
+        "name": "Sheath Charm III",
+        "skills": {
+            "quickSheath": 3
+        }
+    },
+    {
+        "name": "Sleep Charm III",
+        "skills": {
+            "sleepResistance": 3
+        }
+    },
+    {
+        "name": "Sleep Coating Charm",
+        "skills": {
+            "sleepFunctionality": 1
+        }
+    },
+    {
+        "name": "Slinger Charm III",
+        "skills": {
+            "slingerCapacity": 3
+        }
+    },
+    {
+        "name": "Speed Heal Charm III",
+        "skills": {
+            "recoverySpeed": 3
+        }
+    },
+    {
+        "name": "Special Shot Charm II",
+        "skills": {
+            "specialAmmoBoost": 2
+        }
+    },
+    {
+        "name": "Stealth Charm III",
+        "skills": {
+            "stealth": 3
+        }
+    },
+    {
+        "name": "Smoke Charm III",
+        "skills": {
+            "survivalExpert": 3
+        }
+    },
+    {
+        "name": "Stun Charm III",
+        "skills": {
+            "stunResistance": 3
+        }
+    },
+    {
+        "name": "Surveyor's Charm",
+        "skills": {
+            "scoutflyRangeUp": 1,
+            "scholar": 1
+        }
+    },
+    {
+        "name": "Surge Charm III",
+        "skills": {
+            "staminaSurge": 3
+        }
+    },
+    {
+        "name": "Tranq Charm IV",
+        "skills": {
+            "sleepAttack": 4
+        }
+    },
+    {
+        "name": "Tremor Charm III",
+        "skills": {
+            "tremorResistance": 3
+        }
+    },
+    {
+        "name": "Tracker Charm",
+        "skills": {
+            "scenthound": 1
+        }
+    },
+    {
+        "name": "Trickshot Charm",
+        "skills": {
+            "dungmaster": 1,
+            "blindsider": 1
+        }
+    },
+    {
+        "name": "Thunder Charm III",
+        "skills": {
+            "thunderResistance": 3
+        }
+    },
+    {
+        "name": "Unscathed Charm III",
+        "skills": {
+            "peakPerformance": 3
+        }
+    },
+    {
+        "name": "Venom Charm IV",
+        "skills": {
+            "poisonAttack": 4
+        }
+    },
+    {
+        "name": "Water Charm III",
+        "skills": {
+            "waterResistance": 3
+        }
+    },
+    {
+        "name": "Whetstone Charm III",
+        "skills": {
+            "speedSharpening": 3
+        }
+    },
+    {
+        "name": "Windproof Charm V",
+        "skills": {
+            "windproof": 5
+        }
+    },
+    {
+        "name": "Wyrmsbane Charm V",
+        "skills": {
+            "dragonAttack": 5
+        }
+    },
+    {
+        "name": "Wyrmslayer Charm",
+        "skills": {
+            "eldersealBoost": 1,
+            "dragonAttack": 1
+        }
+    },
+    {
+        "name": "Razor Sharp Charm",
+        "skills": {
+            "razorSharpSpareShot": 1
+        }
+    },
+    {
+        "name": "Adamantine Charm",
+        "skills": {
+            "nonElementalBoost": 1,
+            "bludgeoner": 1
+        }
+    },
+    {
+        "name": "Sealer's Charm",
+        "skills": {
+            "eldersealBoost": 1,
+            "adrenaline": 1
+        }
+    },
+    {
+        "name": "Gutsy Charm",
+        "skills": {
+            "guts": 1
+        }
+    },
+    {
+        "name": "Shaver Charm",
+        "skills": {
+            "clutchClawBoost": 1,
+            "cliffhanger": 1
+        }
+    }
+]

@@ -1,0 +1,1176 @@
+[
+    {
+        "name": "---",
+        "defense": 0,
+        "slots": [0, 0, 0],
+        "resistances": {
+            "fire": 0,
+            "water": 0,
+            "thunder": 0,
+            "ice": 0,
+            "dragon": 0
+        },
+        "skills": {
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Acidic Glavenus Mail a +",
+        "defense": 194,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "handicraft": 2,
+            "staminaSurge": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acidic Glavenus Mail b +",
+        "defense": 194,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "handicraft": 1,
+            "staminaSurge": 1
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Alloy Mail a +",
+        "defense": 172,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "defenseBoost": 1,
+            "waterResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Mail b +",
+        "defense": 172,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "waterResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Anja Mail a +",
+        "defense": 190,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "marathonRunner": 2,
+            "specialAmmoBoost": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Anja Mail b +",
+        "defense": 190,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "marathonRunner": 1,
+            "specialAmmoBoost": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Artemis Mail a +",
+        "defense":     184,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 2,
+            "recoveryUp": 1
+        },
+        "sets": {
+            "newWorld": 1
+        }
+    },
+    {
+        "name": "Artian Mail a +",
+        "defense":     194,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "criticalEye": 3,
+            "peakPerformance": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Artian Mail b +",
+        "defense":     194,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "criticalEye": 2,
+            "peakPerformance": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Astral Cloth a +",
+        "defense":     198,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "criticalBoost": 2
+        },
+        "sets": {
+            "appreciationBlessing": 1
+        }
+    },
+    {
+        "name": "Azure Age Haori a +",
+        "defense":     208,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  3 
+        },
+        "skills": {
+            "constitution": 2,
+            "focus": 1
+        },
+        "sets": {
+            "silverRathalosEssence": 1
+        }
+    },
+    {
+        "name": "Baan Mail a +",
+        "defense":     192,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "sleepAttack": 1,
+            "bleedingResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Baan Mail b +",
+        "defense":     192,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "sleepAttack": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Mail a +",
+        "defense":     188,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "offensiveGuard": 1,
+            "speedEating": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Mail b +",
+        "defense":     188,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "speedEating": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banuk Mail a +",
+        "defense":     198,
+        "slots":      [4, 3, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 1,
+            "staminaSurge": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Barioth Mail a +",
+        "defense":     190,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "constitution": 1,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barioth Mail b +",
+        "defense":     190,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "powerProlonger": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barnos Jacket a +",
+        "defense":     174,
+        "slots":      [2, 2, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 0,
+            "ice":     1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "heatGuard": 1,
+            "ironSkin": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barnos Jacket b +",
+        "defense":     174,
+        "slots":      [4, 2, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 0,
+            "ice":     1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "heatGuard": 1,
+            "ironSkin": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Mail a +",
+        "defense":     176,
+        "slots":      [1, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 1,
+            "staminaThief": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Mail b +",
+        "defense":     176,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "staminaThief": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Mail a +",
+        "defense":     176,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "iceAttack": 2,
+            "staminaSurge": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Mail b +",
+        "defense":     176,
+        "slots":      [4, 2, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "staminaSurge": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Black Belt Mail a +",
+        "defense":     194,
+        "slots":      [1,1,1],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 1,
+            "mushroomancer": 2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Black Belt Mail b +",
+        "defense":     194,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "mushroomancer": 2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Bone Mail a +",
+        "defense":     172,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "healthBoost": 1,
+            "attackBoost": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Bone Mail b +",
+        "defense":     172,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Brachydios Mail a +",
+        "defense":     194,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 1,
+            "staminaThief": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydios Mail b +",
+        "defense":     194,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 1,
+            "staminaThief": 1
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydium Mail a +",
+        "defense":     208,
+        "slots":      [2,1,1],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "blastAttack": 3
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Brachydium Mail b +",
+        "defense":     208,
+        "slots":      [4,2,1],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Buff Body Chest a +",
+        "defense":     198,
+        "slots":      [1,1,1],
+        "resistances": {
+            "fire":    2,
+            "water":   -1,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "agitator": 3,
+            "fortify": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Claire's Body a +",
+        "defense":     168,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   2,
+            "thunder": 2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 2,
+            "evadeWindow": 2
+        },
+        "sets": {
+            "survivor": 1
+        }
+    },
+    {
+        "name": "Clockwork Mail a +",
+        "defense":     194,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "agitator":2,
+            "specialAmmoBoost":1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Clockwork Mail b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "agitator":2
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Cortos Cape a +",
+        "defense":     174,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": 0,
+            "ice":     2,
+            "dragon":  0 
+        },
+        "skills": {
+            "hungerResistance": 2,
+            "jumpMaster": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Cortos Cape b +",
+        "defense":     174,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": 0,
+            "ice":     2,
+            "dragon":  0 
+        },
+        "skills": {
+            "hungerResistance": 1,
+            "jumpMaster": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Mail a +",
+        "defense":     196,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "defenseBoost": 2,
+            "focus": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Mail b +",
+        "defense":     196,
+        "slots":      [4,2,1],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "focus": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Death Garon Mail a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "criticalEye": 3,
+            "dragonResistance": 2
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Death Garon Mail b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "criticalEye": 2,
+            "dragonResistance": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Demonlord Cloak a +",
+        "defense":     206,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 4,
+            "ice":     1,
+            "dragon":  1 
+        },
+        "skills": {
+            "blightResistance": 3
+        },
+        "sets": {
+            "funFrightBlessing": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Mail a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 2,
+            "marathonRunner": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Mail b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 1,
+            "marathonRunner": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Mail a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2,
+            "heroics": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Mail b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2,
+            "heroics": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Dober Mail a +",
+        "defense":     196,
+        "slots":      [1,1,1],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 2,
+            "effluviaResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dober Mail b +",
+        "defense":     196,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 1,
+            "effluviaResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Mail a +",
+        "defense":     178,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastAttack": 2,
+            "artillery": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Mail b +",
+        "defense":     178,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastAttack": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dragonhide a +",
+        "defense":     218,
+        "slots":      [4,4,3],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "weaknessExploit": 1,
+            "evadeWindow": 2
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Dragonhide b +",
+        "defense":     218,
+        "slots":      [4,4,4],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "weaknessExploit": 1,
+            "evadeWindow": 1
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Empress Mail a +",
+        "defense":     202,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "wideRange": 2,
+            "peakPerformance": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Empress Mail b +",
+        "defense":     202,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "wideRange": 2,
+            "peakPerformance": 1
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Escadora Soul a +",
+        "defense":     198,
+        "slots":      [2,1,1],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 2,
+            "healthBoost": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Escadora Soul b +",
+        "defense":     198,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 1,
+            "healthBoost": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Esurient Mail a +",
+        "defense":     200,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "handicraft": 2,
+            "speedEating": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Esurient Mail b +",
+        "defense":     200,
+        "slots":      [4,2,2],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "speedEating": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Fellshroud Mail a +",
+        "defense":     194,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "dragonAttack": 2,
+            "recoverySpeed": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Fellshroud Mail b +",
+        "defense":     194,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "dragonAttack": 1,
+            "recoverySpeed": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Frostfang Mail a +",
+        "defense":     186,
+        "slots":      [3,2,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "attackBoost": 3,
+            "criticalDraw": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    },
+    {
+        "name": "Frostfang Mail b +",
+        "defense":     186,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "attackBoost": 3
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    }
+]

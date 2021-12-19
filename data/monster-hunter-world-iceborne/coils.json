@@ -1,0 +1,1097 @@
+[
+    {
+        "name": "---",
+        "defense": 0,
+        "slots": [0, 0, 0],
+        "resistances": {
+            "fire": 0,
+            "water": 0,
+            "thunder": 0,
+            "ice": 0,
+            "dragon": 0
+        },
+        "skills": {
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Acidic Glavenus Coil a +",
+        "defense": 194,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "handicraft": 2,
+            "ironSkin": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acidic Glavenus Coil b +",
+        "defense": 194,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "handicraft": 2
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Alloy Coil a +",
+        "defense": 172,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 1,
+            "poisonResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Coil a +",
+        "defense": 172,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 1,
+            "poisonResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Anja Coil a +",
+        "defense": 190,
+        "slots": [3, 1, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireResistance": 2,
+            "artillery": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Anja Coil b +",
+        "defense": 190,
+        "slots": [4, 2, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "fireResistance": 2
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Artemis Coil a +",
+        "defense":     184,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "recoveryUp": 2,
+            "blightResistance": 2
+        },
+        "sets": {
+            "newWorld": 1
+        }
+    },
+    {
+        "name": "Artian Coil a +",
+        "defense":     194,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "criticalEye": 1,
+            "toolSpecialist": 2
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Artian Coil b +",
+        "defense":     194,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "criticalEye": 1,
+            "toolSpecialist": 1
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Astral Skirt a +",
+        "defense":     198,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "flinchFree": 2
+        },
+        "sets": {
+            "appreciationBlessing": 1
+        }
+    },
+    {
+        "name": "Azure Age Obi a +",
+        "defense":     208,
+        "slots": [4, 1, 1],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  3 
+        },
+        "skills": {
+            "slingerCapacity": 2,
+            "waterAttack": 3
+        },
+        "sets": {
+            "silverRathalosEssence": 1
+        }
+    },
+    {
+        "name": "Baan Coil a +",
+        "defense":     192,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "guard": 2,
+            "stunResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Baan Coil b +",
+        "defense":     192,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "guard": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Coil a +",
+        "defense":     188,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "mushroomancer": 1,
+            "offensiveGuard": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Coil b +",
+        "defense":     188,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "mushroomancer": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banuk Coil a +",
+        "defense":     198,
+        "slots":      [4, 1, 1],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 2,
+            "aquaticPolarMobility": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Barioth Faulds a +",
+        "defense":     190,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "recoveryUp": 1,
+            "quickSheath": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barioth Faulds b +",
+        "defense":     190,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "quickSheath": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barroth Coil a +",
+        "defense":     176,
+        "slots":      [1, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "guard": 1,
+            "agitator": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Coil b +",
+        "defense":     176,
+        "slots":      [4, 0, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Coil a +",
+        "defense":     176,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 2,
+            "healthBoost": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Coil b +",
+        "defense":     176,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 1,
+            "healthBoost": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Black Belt Tassets a +",
+        "defense":     194,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 1,
+            "recoveryUp":2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Black Belt Tassets b +",
+        "defense":     194,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "recoveryUp":2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Bone Coil a +",
+        "defense":     172,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "partbreaker": 1,
+            "hornMaestro": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Bone Coil b +",
+        "defense":     172,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "hornMaestro": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Brachydios Faulds a +",
+        "defense":     194,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "staminaThief": 1,
+            "blastAttack": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydios Faulds b +",
+        "defense":     194,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "blastAttack": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydium Faulds a +",
+        "defense":     208,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 3,
+            "aritllery": 2
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Brachydium Faulds b +",
+        "defense":     208,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 3
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Buff Body Waist a +",
+        "defense":     198,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -1,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "agitator": 2,
+            "heroics": 3
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Claire's Torso a +",
+        "defense":     168,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   2,
+            "thunder": 2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "agitator": 1,
+            "staminaSurge": 2
+        },
+        "sets": {
+            "survivor": 1
+        }
+    },
+    {
+        "name": "Clockwork Coil a +",
+        "defense":     194,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "partbreaker":2,
+            "sleepFunctionality":1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Clockwork Coil b +",
+        "defense":     194,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "partbreaker":2
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Damascus Coil a +",
+        "defense":     196,
+        "slots":      [3,2,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "focus": 1,
+            "guard": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Coil b +",
+        "defense":     196,
+        "slots":      [4,3,1],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "focus": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Death Garon Coil a +",
+        "defense":     192,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "dragonAttack": 2,
+            "latentPower": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Death Garon Coil b +",
+        "defense":     192,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "dragonAttack": 2
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Demonlord Leather Belt a +",
+        "defense":     206,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 4,
+            "ice":     1,
+            "dragon":  1 
+        },
+        "skills": {
+            "freeElemAmmoUp": 3
+        },
+        "sets": {
+            "funFrightBlessing": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Coil a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2,
+            "partbreaker": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Coil b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Coil a +",
+        "defense":     192,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "criticalDraw": 1,
+            "marathonRunner": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Coil b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "marathonRunner": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Dober Coil a +",
+        "defense":     196,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 2,
+            "stunResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dober Coil b +",
+        "defense":     196,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 1,
+            "stunResistance": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Coil a +",
+        "defense":     178,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastResistance": 1,
+            "artillery": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Coil b +",
+        "defense":     178,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "artillery": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dragonbarbs a +",
+        "defense":     218,
+        "slots":      [4,3,3],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "weaknessExploit": 1,
+            "criticalEye": 3
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Dragonbarbs b +",
+        "defense":     218,
+        "slots":      [4,3,3],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "criticalEye": 2
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Empress Coil a +",
+        "defense":     202,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "blastAttack": 2,
+            "healthBoost": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Empress Coil b +",
+        "defense":     202,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "healthBoost": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Escadora Might a +",
+        "defense":     198,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 4,
+            "dragonResistance": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Escadora Might b +",
+        "defense":     198,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "attackBoost": 3,
+            "dragonResistance": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Esurient Faulds a +",
+        "defense":     200,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "handicraft": 1,
+            "staminaThief": 2
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Esurient Faulds b +",
+        "defense":     200,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "staminaThief": 2
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Fellshroud Coil a +",
+        "defense":     194,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "peakPerformance": 1,
+            "speedEating": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Fellshroud Coil b +",
+        "defense":     194,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "speedEating": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Frostfang Coil a +",
+        "defense":     186,
+        "slots":      [3,3,1],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "quickSheath": 1,
+            "criticalDraw": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    },
+    {
+        "name": "Frostfang Coil b +",
+        "defense":     186,
+        "slots":      [4,3,1],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "quickSheath": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    }
+]

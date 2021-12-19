@@ -1,0 +1,74 @@
+{
+    "glavenusEssence": {
+        "3": "maximumMightSecret"
+    },
+    "anjanathDominance": {
+        "2": "staminaCapUp"
+    },
+    "newWorld": {
+        "2": "hastenRecovery",
+        "4": "greatLuck" 
+    },
+    "ancientDivinity": {
+        "2": "criticalStatus"
+    },
+    "appreciationBlessing": {
+        "3": "gratitudesGift",
+        "5": "gratitudesBlessing"
+    },
+    "silverRathalosEssence": {
+        "2": "slingerAmmoSecret",
+        "4": "trueCriticalElement"
+    },
+    "bariothHiddenArt": {
+        "2": "punishingDraw"
+    },
+    "instructorsGuidance": {
+        "2": "captureMaster"
+    },
+    "brachydiosEssence": {
+        "3": "agitatorSecret"
+    },
+    "brachydiosWill": {
+        "2": "agitatorSecret",
+        "4": "artillerySecret"
+    },
+    "survivor": {
+        "2": "zombieEffluviaRes",
+        "4": "agitatorSecret"
+    },
+    "commissionAlchemy": {
+        "3": "bombardierSecret"
+    },
+    "odogaronEssence": {
+        "3": "protectivePolish"
+    },
+    "funFrightBlessing": {
+        "3": "funFrightsGift",
+        "5": "funFrightsGratitude"
+    },
+    "diablosAmbition": {
+        "3": "sluggerSecret"
+    },
+    "fatalisLegend": {
+        "2": "inheritance",
+        "4": "transcendence"
+    },
+    "lunastraEssence": {
+        "3": "toolSpecialistSecret"
+    },
+    "alatreonDivinity": {
+        "2": "elementConversion",
+        "3": "allElementalResistance"
+    },
+    "deviljhoEssence": {
+        "3": "staminaThiefSecret"
+    },
+    "vaalSoulvein": {
+        "2": "superRecovery"
+    },
+    "frostfangAbsoluteArt": {
+        "1": "punishingDraw",
+        "3": "sluggerSecret"
+    }
+}

@@ -1,0 +1,1101 @@
+[
+    {
+        "name": "---",
+        "defense": 0,
+        "slots": [0, 0, 0],
+        "resistances": {
+            "fire": 0,
+            "water": 0,
+            "thunder": 0,
+            "ice": 0,
+            "dragon": 0
+        },
+        "skills": {
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Acidic Glavenus Greaves a +",
+        "defense": 194,
+        "slots": [2, 1, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "maximumMight": 2,
+            "staminaSurge": 1
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Acidic Glavenus Greaves b +",
+        "defense": 194,
+        "slots": [4, 2, 0],
+        "resistances": {
+            "fire": -3,
+            "water": 2,
+            "thunder": -1,
+            "ice": 2,
+            "dragon": -1
+        },
+        "skills": {
+            "maximumMight": 1
+        },
+        "sets": {
+            "glavenusEssence": 1
+        }
+    },
+    {
+        "name": "Alloy Greaves a +",
+        "defense": 172,
+        "slots": [3, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 1,
+            "speedSharpening": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Alloy Greaves a +",
+        "defense": 172,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire": -2,
+            "water": 0,
+            "thunder": -2,
+            "ice": -2,
+            "dragon": 0
+        },
+        "skills": {
+            "windproof": 1,
+            "speedSharpening": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Anja Greaves a +",
+        "defense": 190,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "marathonRunner": 1,
+            "artillery": 2
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Anja Greaves b +",
+        "defense": 190,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire": 3,
+            "water": -3,
+            "thunder": -1,
+            "ice": -1,
+            "dragon": 0
+        },
+        "skills": {
+            "artillery": 2
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Artemis Greaves a +",
+        "defense":     184,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "stunResistance": 3,
+            "poisonResistance": 2
+        },
+        "sets": {
+            "newWorld": 1
+        }
+    },
+    {
+        "name": "Artian Greaves a +",
+        "defense":     194,
+        "slots": [1, 1, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "slingerCapacity": 1,
+            "peakPerformance": 2
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Artian Greaves b +",
+        "defense":     194,
+        "slots": [4, 0, 0],
+        "resistances": {
+            "fire":    1,
+            "water":   -2,
+            "thunder": -2,
+            "ice":     2,
+            "dragon":  3 
+        },
+        "skills": {
+            "peakPerformance": 2
+        },
+        "sets": {
+            "ancientDivinity": 1
+        }
+    },
+    {
+        "name": "Astral Tights a +",
+        "defense":     198,
+        "slots": [1, 0, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "weaknessExploit": 2
+        },
+        "sets": {
+            "appreciationBlessing": 1
+        }
+    },
+    {
+        "name": "Azure Age Geta a +",
+        "defense":     208,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  3 
+        },
+        "skills": {
+            "constitution": 2,
+            "weaknessExploit": 1
+        },
+        "sets": {
+            "silverRathalosEssence": 1
+        }
+    },
+    {
+        "name": "Baan Greaves a +",
+        "defense":     192,
+        "slots": [2, 0, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "guard": 1,
+            "bleedingResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Baan Greaves b +",
+        "defense":     192,
+        "slots": [4, 1, 0],
+        "resistances": {
+            "fire":    0,
+            "water":   2,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -2 
+        },
+        "skills": {
+            "bleedingResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Greaves a +",
+        "defense":     188,
+        "slots":      [3, 0, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "mushroomancer": 1,
+            "speedEating": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banbaro Greaves b +",
+        "defense":     188,
+        "slots":      [4, 1, 0],
+        "resistances": {
+            "fire":    -2,
+            "water":   2,
+            "thunder": -1,
+            "ice":     3,
+            "dragon":  -3 
+        },
+        "skills": {
+            "mushroomancer": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Banuk Greaves a +",
+        "defense":     198,
+        "slots":      [4, 2, 2],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     2,
+            "dragon":  2 
+        },
+        "skills": {
+            "staminaSurge": 1,
+            "resuscitate": 1
+        },
+        "sets": {
+            "anjanathDominance": 1
+        }
+    },
+    {
+        "name": "Barioth Greaves a +",
+        "defense":     190,
+        "slots":      [1, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "constitution": 2,
+            "quickSheath": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barioth Greaves b +",
+        "defense":     190,
+        "slots":      [1, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "constitution": 1,
+            "quickSheath": 1
+        },
+        "sets": {
+            "bariothHiddenArt": 1
+        }
+    },
+    {
+        "name": "Barroth Greaves a +",
+        "defense":     176,
+        "slots":      [3, 1, 0],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "marathonRunner": 1,
+            "stunResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Barroth Greaves b +",
+        "defense":     176,
+        "slots":      [4, 2, 1],
+        "resistances": {
+            "fire":    -3,
+            "water":   -1,
+            "thunder": 3,
+            "ice":     -1,
+            "dragon":  0 
+        },
+        "skills": {
+            "stunResistance": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Greaves a +",
+        "defense":     176,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 2,
+            "iceAttack": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Beo Greaves b +",
+        "defense":     176,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   0,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "earplugs": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Black Belt Greaves a +",
+        "defense":     194,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 2,
+            "recoveryUp":1
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Black Belt Greaves b +",
+        "defense":     194,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  2 
+        },
+        "skills": {
+            "wideRange": 2
+        },
+        "sets": {
+            "instructorsGuidance": 1
+        }
+    },
+    {
+        "name": "Bone Greaves a +",
+        "defense":     172,
+        "slots":      [3,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1,
+            "hornMaestro":1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Bone Greaves b +",
+        "defense":     172,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Brachydios Greaves a +",
+        "defense":     194,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "artillery": 2
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydios Greaves b +",
+        "defense":     194,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "agitator": 2,
+            "artillery": 1
+        },
+        "sets": {
+            "brachydiosEssence": 1
+        }
+    },
+    {
+        "name": "Brachydium Greaves a +",
+        "defense":     208,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "weaknessExploit": 2,
+            "speedSharpening": 3
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Brachydium Greaves b +",
+        "defense":     208,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  1 
+        },
+        "skills": {
+            "weaknessExploit": 2
+        },
+        "sets": {
+            "brachydiosWill": 1
+        }
+    },
+    {
+        "name": "Buff Body Legs a +",
+        "defense":     198,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -1,
+            "thunder": 0,
+            "ice":     -1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "attackBoost": 3,
+            "heroics": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Claire's Legs a +",
+        "defense":     168,
+        "slots":      [4,3,1],
+        "resistances": {
+            "fire":    3,
+            "water":   2,
+            "thunder": 2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "staminaSurge": 1,
+            "normalShots": 1
+        },
+        "sets": {
+            "survivor": 1
+        }
+    },
+    {
+        "name": "Clockwork Greaves a +",
+        "defense":     194,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "bombardier":2,
+            "criticalBoost": 1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Clockwork Greaves b +",
+        "defense":     194,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   2,
+            "thunder": 2,
+            "ice":     -1,
+            "dragon":  -1 
+        },
+        "skills": {
+            "bombardier":1,
+            "criticalBoost": 1
+        },
+        "sets": {
+            "commissionAlchemy": 1
+        }
+    },
+    {
+        "name": "Damascus Greaves a +",
+        "defense":     196,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "defenseBoost": 2,
+            "guard": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Damascus Greaves b +",
+        "defense":     196,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    4,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     0,
+            "dragon":  0 
+        },
+        "skills": {
+            "defenseBoost": 2,
+            "guard": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Death Garon Greaves a +",
+        "defense":     192,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "toolspecialist": 2,
+            "powerProlonger": 1
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Death Garon Greaves b +",
+        "defense":     192,
+        "slots":      [4,1,1],
+        "resistances": {
+            "fire":    -2,
+            "water":   -3,
+            "thunder": -2,
+            "ice":     -2,
+            "dragon":  4 
+        },
+        "skills": {
+            "toolspecialist": 2
+        },
+        "sets": {
+            "odogaronEssence": 1
+        }
+    },
+    {
+        "name": "Demonlord Boots a +",
+        "defense":     206,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    1,
+            "water":   1,
+            "thunder": 4,
+            "ice":     1,
+            "dragon":  1 
+        },
+        "skills": {
+            "offensiveGuard": 3
+        },
+        "sets": {
+            "funFrightBlessing": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Greaves a +",
+        "defense":     192,
+        "slots":      [1,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 2,
+            "slugger": 1
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Nero Greaves b +",
+        "defense":     192,
+        "slots":      [4,0,0],
+        "resistances": {
+            "fire":    2,
+            "water":   -3,
+            "thunder": 0,
+            "ice":     -4,
+            "dragon":  2 
+        },
+        "skills": {
+            "resentment": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Greaves a +",
+        "defense":     192,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 2,
+            "tremorResistance": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Diablos Greaves b +",
+        "defense":     192,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   -2,
+            "thunder": 0,
+            "ice":     -3,
+            "dragon":  2 
+        },
+        "skills": {
+            "slugger": 1,
+            "tremorResistance": 2
+        },
+        "sets": {
+            "diablosAmbition": 1
+        }
+    },
+    {
+        "name": "Dober Greaves a +",
+        "defense":     196,
+        "slots":      [2,0,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 2,
+            "mushroomancer": 2
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dober Greaves b +",
+        "defense":     196,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   0,
+            "thunder": -1,
+            "ice":     -1,
+            "dragon":  4 
+        },
+        "skills": {
+            "attackBoost": 1,
+            "mushroomancer": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Greaves a +",
+        "defense":     178,
+        "slots":      [2,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "blastAttack": 1,
+            "capacityBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dodogama Greaves b +",
+        "defense":     178,
+        "slots":      [4,1,0],
+        "resistances": {
+            "fire":    2,
+            "water":   0,
+            "thunder": -3,
+            "ice":     0,
+            "dragon":  2 
+        },
+        "skills": {
+            "capacityBoost": 1
+        },
+        "sets": {
+        }
+    },
+    {
+        "name": "Dragonfeet a +",
+        "defense":     218,
+        "slots":      [4,4,0],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "handicraft": 2,
+            "evadeWindow": 1
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Dragonfeet b +",
+        "defense":     218,
+        "slots":      [4,4,4],
+        "resistances": {
+            "fire":    -1,
+            "water":   2,
+            "thunder": 2,
+            "ice":     0,
+            "dragon":  -4 
+        },
+        "skills": {
+            "evadeWindow": 1
+        },
+        "sets": {
+            "fatalisLegend": 1
+        }
+    },
+    {
+        "name": "Empress Greaves a +",
+        "defense":     202,
+        "slots":      [3,1,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 1,
+            "wideRange": 3
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Empress Greaves b +",
+        "defense":     202,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    3,
+            "water":   1,
+            "thunder": 1,
+            "ice":     -3,
+            "dragon":  -2 
+        },
+        "skills": {
+            "toolSpecialist": 1,
+            "wideRange": 2
+        },
+        "sets": {
+            "lunastraEssence": 1
+        }
+    },
+    {
+        "name": "Escadora Sheath a +",
+        "defense":     198,
+        "slots":      [2,2,2],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "dragonAttack": 4,
+            "defenseBoost": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Escadora Sheath b +",
+        "defense":     198,
+        "slots":      [4,4,2],
+        "resistances": {
+            "fire":    3,
+            "water":   0,
+            "thunder": 0,
+            "ice":     3,
+            "dragon":  2 
+        },
+        "skills": {
+            "defenseBoost": 3
+        },
+        "sets": {
+            "alatreonDivinity": 1
+        }
+    },
+    {
+        "name": "Esurient Greaves a +",
+        "defense":     200,
+        "slots":      [2,2,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "staminaThief": 1,
+            "speedEating": 2
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Esurient Greaves b +",
+        "defense":     200,
+        "slots":      [4,2,0],
+        "resistances": {
+            "fire":    2,
+            "water":   1,
+            "thunder": -3,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "staminaThief": 1,
+            "speedEating": 1
+        },
+        "sets": {
+            "deviljhoEssence": 1
+        }
+    },
+    {
+        "name": "Fellshroud Greaves a +",
+        "defense":     194,
+        "slots":      [3,2,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "dragonAttack": 2,
+            "effluviaResistance": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Fellshroud Greaves b +",
+        "defense":     194,
+        "slots":      [4,3,0],
+        "resistances": {
+            "fire":    -2,
+            "water":   4,
+            "thunder": 1,
+            "ice":     1,
+            "dragon":  -3 
+        },
+        "skills": {
+            "effluviaResistance": 2
+        },
+        "sets": {
+            "vaalSoulvein": 1
+        }
+    },
+    {
+        "name": "Frostfang Greaves a +",
+        "defense":     186,
+        "slots":      [1,1,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "slugger": 3,
+            "attackBoost": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    },
+    {
+        "name": "Frostfang Greaves b +",
+        "defense":     186,
+        "slots":      [4,4,0],
+        "resistances": {
+            "fire":    -3,
+            "water":   2,
+            "thunder": -2,
+            "ice":     3,
+            "dragon":  0 
+        },
+        "skills": {
+            "attackBoost": 1
+        },
+        "sets": {
+            "frostfangAbsoluteArt": 1
+        }
+    }
+]

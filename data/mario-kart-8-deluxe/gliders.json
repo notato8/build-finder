@@ -1,0 +1,78 @@
+[
+    {
+        "name": "Super Gilder / Waddle Wing / Hylian Kite",
+        "speed": {
+            "ground": 1,
+            "water": 1,
+            "air": 2,
+            "antiGravity": 0
+        },
+        "acceleration": 1,
+        "weight": 1,
+        "handling": {
+            "ground": 1,
+            "water": 0,
+            "air": 1,
+            "antiGravity": 1
+        },
+        "traction": 1,
+        "miniTurbo": 1
+    },
+    {
+        "name": "Cloud Gilder / Parachute / Flower Glider / Paper Glider",
+        "speed": {
+            "ground": 0,
+            "water": 1,
+            "air": 1,
+            "antiGravity": 1
+        },
+        "acceleration": 2,
+        "weight": 0,
+        "handling": {
+            "ground": 1,
+            "water": 0,
+            "air": 2,
+            "antiGravity": 1
+        },
+        "traction": 1,
+        "miniTurbo": 2
+    },
+    {
+        "name": "Wario Wing / Plane Glider / Gold Glider / Paraglider",
+        "speed": {
+            "ground": 1,
+            "water": 0,
+            "air": 2,
+            "antiGravity": 1
+        },
+        "acceleration": 1,
+        "weight": 2,
+        "handling": {
+            "ground": 1,
+            "water": 1,
+            "air": 1,
+            "antiGravity": 0
+        },
+        "traction": 0,
+        "miniTurbo": 1
+    },
+    {
+        "name": "Peach Parasol / Parafoil / Bowser Kite / MKTV Parafoil",
+        "speed": {
+            "ground": 0,
+            "water": 0,
+            "air": 1,
+            "antiGravity": 1
+        },
+        "acceleration": 2,
+        "weight": 1,
+        "handling": {
+            "ground": 1,
+            "water": 1,
+            "air": 2,
+            "antiGravity": 0
+        },
+        "traction": 0,
+        "miniTurbo": 2
+    }
+]

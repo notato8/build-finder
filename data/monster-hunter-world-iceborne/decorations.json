@@ -1,0 +1,1106 @@
+[
+    {
+        "name": "---",
+        "level": 1,
+        "skills": {}
+    },
+    {
+        "name": "Antiblast Jewel",
+        "level": 1,
+        "skills": {
+            "blastResistance": 1
+        }
+    },
+    {
+        "name": "Slider Jewel",
+        "level": 2,
+        "skills": {
+            "affinitySliding": 1
+        }
+    },
+    {
+        "name": "Challenger Jewel",
+        "level": 2,
+        "skills": {
+            "agitator": 1
+        }
+    },
+    {
+        "name": "Challenger Jewel+",
+        "level": 4,
+        "skills": {
+            "agitator": 2
+        }
+    },
+    {
+        "name": "Flight Jewel",
+        "level": 2,
+        "skills": {
+            "airborne": 1
+        }
+    },
+    {
+        "name": "Mirewalker Jewel",
+        "level": 1,
+        "skills": {
+            "aquaticPolarMobility": 1
+        }
+    },
+    {
+        "name": "Mirewalker Jewel+",
+        "level": 4,
+        "skills": {
+            "aquaticPolarMobility": 2
+        }
+    },
+    {
+        "name": "Artillery Jewel",
+        "level": 1,
+        "skills": {
+            "artillery": 1
+        }
+    },
+    {
+        "name": "Artillery Jewel+",
+        "level": 4,
+        "skills": {
+            "artillery": 2
+        }
+    },
+    {
+        "name": "Attack Jewel",
+        "level": 1,
+        "skills": {
+            "attackBoost": 1
+        }
+    },
+    {
+        "name": "Attack Jewel+",
+        "level": 4,
+        "skills": {
+            "attackBoost": 2
+        }
+    },
+    {
+        "name": "Blast Jewel",
+        "level": 1,
+        "skills": {
+            "blastAttack": 1
+        }
+    },
+    {
+        "name": "Blast Jewel+",
+        "level": 4,
+        "skills": {
+            "blastAttack": 2
+        }
+    },
+    {
+        "name": "Blastcoat Jewel",
+        "level": 3,
+        "skills": {
+            "blastFunctionality": 1
+        }
+    },
+    {
+        "name": "Antiblast Jewel",
+        "level": 1,
+        "skills": {
+            "blastResistance": 1
+        }
+    },
+    {
+        "name": "Antiblast Jewel+",
+        "level": 4,
+        "skills": {
+            "blastResistance": 2
+        }
+    },
+    {
+        "name": "Suture Jewel",
+        "level": 1,
+        "skills": {
+            "bleedingResistance": 1
+        }
+    },
+    {
+        "name": "Suture Jewel+",
+        "level": 4,
+        "skills": {
+            "bleedingResistance": 2
+        }
+    },
+    {
+        "name": "Resistor Jewel",
+        "level": 1,
+        "skills": {
+            "blightResistance": 1
+        }
+    },
+    {
+        "name": "Bomber Jewel",
+        "level": 1,
+        "skills": {
+            "bombardier": 1
+        }
+    },
+    {
+        "name": "Botany Jewel",
+        "level": 1,
+        "skills": {
+            "botanist": 1
+        }
+    },
+    {
+        "name": "Hard Botany Jewel",
+        "level": 4,
+        "skills": {
+            "botanist": 4
+        }
+    },
+    {
+        "name": "Mighty Bow Jewel",
+        "level": 2,
+        "skills": {
+            "bowChargePlus": 1
+        }
+    },
+    {
+        "name": "Magazine Jewel",
+        "level": 2,
+        "skills": {
+            "capacityBoost": 1
+        }
+    },
+    {
+        "name": "Shaver Jewel",
+        "level": 3,
+        "skills": {
+            "clutchClawBoost": 1
+        }
+    },
+    {
+        "name": "Phoenix Jewel",
+        "level": 3,
+        "skills": {
+            "coalescence": 1
+        }
+    },
+    {
+        "name": "Warming Jewel",
+        "level": 2,
+        "skills": {
+            "coldproof": 1
+        }
+    },
+    {
+        "name": "Physique Jewel",
+        "level": 2,
+        "skills": {
+            "constitution": 1
+        }
+    },
+    {
+        "name": "Physique Jewel+",
+        "level": 4,
+        "skills": {
+            "constitution": 2
+        }
+    },
+    {
+        "name": "Critical Jewel",
+        "level": 2,
+        "skills": {
+            "criticalBoost": 1
+        }
+    },
+    {
+        "name": "Draw Jewel",
+        "level": 2,
+        "skills": {
+            "criticalDraw": 1
+        }
+    },
+    {
+        "name": "Expert Jewel",
+        "level": 1,
+        "skills": {
+            "criticalEye": 1
+        }
+    },
+    {
+        "name": "Expert Jewel+",
+        "level": 4,
+        "skills": {
+            "criticalEye": 2
+        }
+    },
+    {
+        "name": "Defense Jewel",
+        "level": 1,
+        "skills": {
+            "defenseBoost": 1
+        }
+    },
+    {
+        "name": "Hard Defense Jewel",
+        "level": 4,
+        "skills": {
+            "defenseBoost": 3
+        }
+    },
+    {
+        "name": "Protection Jewel",
+        "level": 1,
+        "skills": {
+            "divineBlessing": 1
+        }
+    },
+    {
+        "name": "Dragon Jewel",
+        "level": 1,
+        "skills": {
+            "dragonAttack": 1
+        }
+    },
+    {
+        "name": "Dragon Jewel+",
+        "level": 4,
+        "skills": {
+            "dragonAttack": 2
+        }
+    },
+    {
+        "name": "Dragon Res Jewel",
+        "level": 1,
+        "skills": {
+            "dragonResistance": 1
+        }
+    },
+    {
+        "name": "Hard Dragon Res Jewel",
+        "level": 4,
+        "skills": {
+            "dragonResistance": 3
+        }
+    },
+    {
+        "name": "Earplug Jewel",
+        "level": 3,
+        "skills": {
+            "earplugs": 1
+        }
+    },
+    {
+        "name": "Earplug Jewel+",
+        "level": 4,
+        "skills": {
+            "earplugs": 2
+        }
+    },
+    {
+        "name": "Miasma Jewel",
+        "level": 1,
+        "skills": {
+            "effluviaResistances": 1
+        }
+    },
+    {
+        "name": "Miasma Jewel+",
+        "level": 4,
+        "skills": {
+            "effluviaResistance": 2
+        }
+    },
+    {
+        "name": "Dragonseal Jewel",
+        "level": 3,
+        "skills": {
+            "eldersealBoost": 1
+        }
+    },
+    {
+        "name": "Specimen Jewel",
+        "level": 1,
+        "skills": {
+            "entomologist": 1
+        }
+    },
+    {
+        "name": "Hard Specimen Jewel",
+        "level": 4,
+        "skills": {
+            "entomologist": 3
+        }
+    },
+    {
+        "name": "Jumping Jewel",
+        "level": 2,
+        "skills": {
+            "evadeExtender": 1
+        }
+    },
+    {
+        "name": "Evasion Jewel",
+        "level": 2,
+        "skills": {
+            "evadeWindow": 1
+        }
+    },
+    {
+        "name": "Evasion Jewel+",
+        "level": 4,
+        "skills": {
+            "evadeWindow": 2
+        }
+    },
+    {
+        "name": "Blaze Jewel",
+        "level": 1,
+        "skills": {
+            "fireAttack": 1
+        }
+    },
+    {
+        "name": "Blaze Jewel+",
+        "level": 4,
+        "skills": {
+            "fireAttack": 2
+        }
+    },
+    {
+        "name": "Fire Res Jewel",
+        "level": 1,
+        "skills": {
+            "fireResistance": 1
+        }
+    },
+    {
+        "name": "Hard Fire Res Jewel",
+        "level": 4,
+        "skills": {
+            "fireResistance": 3
+        }
+    },
+    {
+        "name": "Brace Jewel",
+        "level": 3,
+        "skills": {
+            "flinchFree": 1
+        }
+    },
+    {
+        "name": "Charger Jewel",
+        "level": 2,
+        "skills": {
+            "focus": 1
+        }
+    },
+    {
+        "name": "Fortitude Jewel",
+        "level": 1,
+        "skills": {
+            "fortify": 1
+        }
+    },
+    {
+        "name": "Release Jewel",
+        "level": 3,
+        "skills": {
+            "freeElemAmmoUp": 1
+        }
+    },
+    {
+        "name": "Satiated Jewel",
+        "level": 1,
+        "skills": {
+            "freeMeal": 1
+        }
+    },
+    {
+        "name": "Geology Jewel",
+        "level": 1,
+        "skills": {
+            "geologist": 1
+        }
+    },
+    {
+        "name": "Hard Geology Jewel",
+        "level": 4,
+        "skills": {
+            "geologist": 3
+        }
+    },
+    {
+        "name": "Ironwall Jewel",
+        "level": 1,
+        "skills": {
+            "guard": 1
+        }
+    },
+    {
+        "name": "Ironwall Jewel+",
+        "level": 4,
+        "skills": {
+            "guard": 2
+        }
+    },
+    {
+        "name": "Shield Jewel",
+        "level": 2,
+        "skills": {
+            "guardUp": 1
+        }
+    },
+    {
+        "name": "Handicraft Jewel",
+        "level": 3,
+        "skills": {
+            "handicraft": 1
+        }
+    },
+    {
+        "name": "Handicraft Jewel+",
+        "level": 4,
+        "skills": {
+            "handicraft": 2
+        }
+    },
+    {
+        "name": "Vitality Jewel",
+        "level": 1,
+        "skills": {
+            "healthBoost": 1
+        }
+    },
+    {
+        "name": "Cooling Jewel",
+        "level": 2,
+        "skills": {
+            "heatGuard": 1
+        }
+    },
+    {
+        "name": "Heavy Artillery Jewel",
+        "level": 1,
+        "skills": {
+            "heavyArtillery": 1
+        }
+    },
+    {
+        "name": "Heavy Artillery Jewel+",
+        "level": 4,
+        "skills": {
+            "heavyArtillery": 2
+        }
+    },
+    {
+        "name": "Potential Jewel",
+        "level": 2,
+        "skills": {
+            "heroics": 1
+        }
+    },
+    {
+        "name": "Potential Jewel+",
+        "level": 4,
+        "skills": {
+            "heroics": 2
+        }
+    },
+    {
+        "name": "Sonorous Jewel",
+        "level": 1,
+        "skills": {
+            "hornMaestro": 1
+        }
+    },
+    {
+        "name": "Sonorus Jewel+",
+        "level": 4,
+        "skills": {
+            "hornMaestro": 2
+        }
+    },
+    {
+        "name": "Hungerless Jewel",
+        "level": 1,
+        "skills": {
+            "hungerResistance": 1
+        }
+    },
+    {
+        "name": "Hungerless Jewel+",
+        "level": 4,
+        "skills": {
+            "hungerResistance": 2
+        }
+    },
+    {
+        "name": "Frost Jewel",
+        "level": 1,
+        "skills": {
+            "iceAttack": 1
+        }
+    },
+    {
+        "name": "Frost Jewel+",
+        "level": 4,
+        "skills": {
+            "iceAttack": 2
+        }
+    },
+    {
+        "name": "Ice Res Jewel",
+        "level": 1,
+        "skills": {
+            "iceResistance": 1
+        }
+    },
+    {
+        "name": "Hard Ice Res Jewel",
+        "level": 4,
+        "skills": {
+            "iceResistance": 3
+        }
+    },
+    {
+        "name": "Intimidator Jewel",
+        "level": 1,
+        "skills": {
+            "intimidator": 1
+        }
+    },
+    {
+        "name": "Hard Intimidator Jewel",
+        "level": 4,
+        "skills": {
+            "intimidator": 3
+        }
+    },
+    {
+        "name": "Def Lock Jewel",
+        "level": 1,
+        "skills": {
+            "ironSkin": 1
+        }
+    },
+    {
+        "name": "Def Lock Jewel+",
+        "level": 4,
+        "skills": {
+            "ironSkin": 2
+        }
+    },
+    {
+        "name": "Enduring Jewel",
+        "level": 1,
+        "skills": {
+            "itemProlonger": 1
+        }
+    },
+    {
+        "name": "Hard Enduring Jewel",
+        "level": 4,
+        "skills": {
+            "itemProlonger": 3
+        }
+    },
+    {
+        "name": "Throttle Jewel",
+        "level": 2,
+        "skills": {
+            "latentPower": 1
+        }
+    },
+    {
+        "name": "Throttle Jewel+",
+        "level": 4,
+        "skills": {
+            "latentPower": 2
+        }
+    },
+    {
+        "name": "Sprinter Jewel",
+        "level": 2,
+        "skills": {
+            "marathonRunner": 1
+        }
+    },
+    {
+        "name": "Mighty Jewel",
+        "level": 2,
+        "skills": {
+            "maximumMight": 1
+        }
+    },
+    {
+        "name": "Mind's Eye Jewel",
+        "level": 2,
+        "skills": {
+            "mindsEyeBallistics": 1
+        }
+    },
+    {
+        "name": "Fungiform Jewel",
+        "level": 1,
+        "skills": {
+            "mushroomancer": 1
+        }
+    },
+    {
+        "name": "Elementless Jewel",
+        "level": 2,
+        "skills": {
+            "nonelementalBoost": 1
+        }
+    },
+    {
+        "name": "Forceshot Jewel",
+        "level": 3,
+        "skills": {
+            "normalShots": 1
+        }
+    },
+    {
+        "name": "Guardian Jewel",
+        "level": 2,
+        "skills": {
+            "offensiveGuard": 1
+        }
+    },
+    {
+        "name": "Meowster Jewel",
+        "level": 1,
+        "skills": {
+            "palicoRally": 1
+        }
+    },
+    {
+        "name": "Hard Meowster Jewel",
+        "level": 4,
+        "skills": {
+            "palicoRally": 3
+        }
+    },
+    {
+        "name": "Paralyzer Jewel",
+        "level": 1,
+        "skills": {
+            "paralysisAttack": 1
+        }
+    },
+    {
+        "name": "Paralyzer Jewel+",
+        "level": 4,
+        "skills": {
+            "paralysisAttack": 2
+        }
+    },
+    {
+        "name": "Paracoat Jewel",
+        "level": 3,
+        "skills": {
+            "paraFunctionality": 1
+        }
+    },
+    {
+        "name": "Antipara Jewel",
+        "level": 1,
+        "skills": {
+            "paralysisResistance": 1
+        }
+    },
+    {
+        "name": "Antipara Jewel+",
+        "level": 4,
+        "skills": {
+            "paralysisResistance": 2
+        }
+    },
+    {
+        "name": "Destroyer Jewel",
+        "level": 2,
+        "skills": {
+            "partbreaker": 1
+        }
+    },
+    {
+        "name": "Flawless Jewel",
+        "level": 2,
+        "skills": {
+            "peakPerformance": 1
+        }
+    },
+    {
+        "name": "Pierce Jewel",
+        "level": 3,
+        "skills": {
+            "piercingShots": 1
+        }
+    },
+    {
+        "name": "Venom Jewel",
+        "level": 1,
+        "skills": {
+            "poisonAttack": 1
+        }
+    },
+    {
+        "name": "Venom Jewel+",
+        "level": 4,
+        "skills": {
+            "poisonAttack": 2
+        }
+    },
+    {
+        "name": "Poisoncoat Jewel",
+        "level": 3,
+        "skills": {
+            "poisonFunctionality": 1
+        }
+    },
+    {
+        "name": "Antidote Jewel",
+        "level": 1,
+        "skills": {
+            "poisonResistance": 1
+        }
+    },
+    {
+        "name": "Antidote Jewel+",
+        "level": 4,
+        "skills": {
+            "poisonResistance": 2
+        }
+    },
+    {
+        "name": "Enhancer Jewel",
+        "level": 2,
+        "skills": {
+            "powerProlonger": 1
+        }
+    },
+    {
+        "name": "Sharp Jewel",
+        "level": 2,
+        "skills": {
+            "protectivePolish": 1
+        }
+    },
+    {
+        "name": "Diversion Jewel",
+        "level": 3,
+        "skills": {
+            "provoker": 1
+        }
+    },
+    {
+        "name": "Sheath Jewel",
+        "level": 1,
+        "skills": {
+            "quickSheath": 1
+        }
+    },
+    {
+        "name": "Recovery Jewel",
+        "level": 1,
+        "skills": {
+            "recoverySpeed": 1
+        }
+    },
+    {
+        "name": "Recovery Jewel+",
+        "level": 4,
+        "skills": {
+            "recoverySpeed": 1
+        }
+    },
+    {
+        "name": "Medicine Jewel",
+        "level": 1,
+        "skills": {
+            "recoveryUp": 1
+        }
+    },
+    {
+        "name": "Furor Jewel",
+        "level": 2,
+        "skills": {
+            "resentment": 1
+        }
+    },
+    {
+        "name": "Furor Jewel+",
+        "level": 4,
+        "skills": {
+            "resentment": 2
+        }
+    },
+    {
+        "name": "Crisis Jewel",
+        "level": 1,
+        "skills": {
+            "resuscitate": 1
+        }
+    },
+    {
+        "name": "Acrobat Jewel",
+        "level": 3,
+        "skills": {
+            "safeLanding": 1
+        }
+    },
+    {
+        "name": "Scent Jewel",
+        "level": 1,
+        "skills": {
+            "scenthound": 1
+        }
+    },
+    {
+        "name": "Sleep Jewel",
+        "level": 1,
+        "skills": {
+            "sleepAttack": 1
+        }
+    },
+    {
+        "name": "Sleep Jewel+",
+        "level": 4,
+        "skills": {
+            "sleepAttack": 2
+        }
+    },
+    {
+        "name": "Sleepcoat Jewel",
+        "level": 1,
+        "skills": {
+            "sleepFunctionality": 1
+        }
+    },
+    {
+        "name": "Pep Jewel",
+        "level": 1,
+        "skills": {
+            "sleepResistance": 1
+        }
+    },
+    {
+        "name": "Pep Jewel+",
+        "level": 4,
+        "skills": {
+            "sleepResistance": 2
+        }
+    },
+    {
+        "name": "Stonethrower Jewel",
+        "level": 1,
+        "skills": {
+            "slingerCapacity": 1
+        }
+    },
+    {
+        "name": "KO Jewel",
+        "level": 1,
+        "skills": {
+            "slugger": 1
+        }
+    },
+    {
+        "name": "Trueshot Jewel",
+        "level": 1,
+        "skills": {
+            "specialAmmoBoost": 1
+        }
+    },
+    {
+        "name": "Trueshot Jewel+",
+        "level": 4,
+        "skills": {
+            "specialAmmoBoost": 2
+        }
+    },
+    {
+        "name": "GobblerJewel",
+        "level": 1,
+        "skills": {
+            "speedEating": 1
+        }
+    },
+    {
+        "name": "Grinder Jewel",
+        "level": 1,
+        "skills": {
+            "speedSharpening": 1
+        }
+    },
+    {
+        "name": "Spread Jewel",
+        "level": 3,
+        "skills": {
+            "spreadPowerShots": 1
+        }
+    },
+    {
+        "name": "Refresh Jewel",
+        "level": 2,
+        "skills": {
+            "staminaSurge": 1
+        }
+    },
+    {
+        "name": "Drain Jewel",
+        "level": 1,
+        "skills": {
+            "staminaThief": 1
+        }
+    },
+    {
+        "name": "Tip Toe Jewel",
+        "level": 1,
+        "skills": {
+            "stealth": 1
+        }
+    },
+    {
+        "name": "Hard Tip Toe Jewel",
+        "level": 4,
+        "skills": {
+            "stealth": 3
+        }
+    },
+    {
+        "name": "Steadfast Jewel",
+        "level": 1,
+        "skills": {
+            "stunResistance": 1
+        }
+    },
+    {
+        "name": "Steadfast Jewel+",
+        "level": 4,
+        "skills": {
+            "stunResistance": 2
+        }
+    },
+    {
+        "name": "Survival Jewel",
+        "level": 1,
+        "skills": {
+            "survivalExpert": 1
+        }
+    },
+    {
+        "name": "Hard Survival Jewel",
+        "level": 4,
+        "skills": {
+            "survivalExpert": 3
+        }
+    },
+    {
+        "name": "Bolt Jewel",
+        "level": 1,
+        "skills": {
+            "thunderAttack": 1
+        }
+    },
+    {
+        "name": "Bolt Jewel+",
+        "level": 4,
+        "skills": {
+            "thunderAttack": 2
+        }
+    },
+    {
+        "name": "Thunder Res Jewel",
+        "level": 1,
+        "skills": {
+            "thunderResistance": 1
+        }
+    },
+    {
+        "name": "Hard Thunder Res Jewel",
+        "level": 4,
+        "skills": {
+            "thunderResistance": 3
+        }
+    },
+    {
+        "name": "Maintenance Jewel",
+        "level": 1,
+        "skills": {
+            "toolSpecialist": 1
+        }
+    },
+    {
+        "name": "Footing Jewel",
+        "level": 2,
+        "skills": {
+            "tremorResistance": 1
+        }
+    },
+    {
+        "name": "Stream Jewel",
+        "level": 1,
+        "skills": {
+            "waterAttack": 1
+        }
+    },
+    {
+        "name": "Stream Jewel+",
+        "level": 4,
+        "skills": {
+            "waterAttack": 2
+        }
+    },
+    {
+        "name": "Water Res Jewel",
+        "level": 1,
+        "skills": {
+            "waterResistance": 1
+        }
+    },
+    {
+        "name": "Hard Water Res Jewel",
+        "level": 4,
+        "skills": {
+            "waterResistance": 3
+        }
+    },
+    {
+        "name": "Tenderizer Jewel",
+        "level": 2,
+        "skills": {
+            "weaknessExploit": 1
+        }
+    },
+    {
+        "name": "Friendship Jewel",
+        "level": 1,
+        "skills": {
+            "wideRange": 1
+        }
+    },
+    {
+        "name": "Friendship Jewel+",
+        "level": 4,
+        "skills": {
+            "wideRange": 2
+        }
+    },
+    {
+        "name": "Wind Resist Jewel",
+        "level": 2,
+        "skills": {
+            "windproof": 1
+        }
+    },
+    {
+        "name": "Wind Resist Jewel+",
+        "level": 4,
+        "skills": {
+            "windproof": 2
+        }
+    }
+]

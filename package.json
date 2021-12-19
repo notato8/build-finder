@@ -1,0 +1,5 @@
+{
+  "name": "build-finder",
+  "main": "build-finder.js",
+  "type": "module"
+}
